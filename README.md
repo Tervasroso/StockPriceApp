@@ -2,7 +2,7 @@
 
 ## This is a practice project to a fast way to building a data app using streamlit.
 
-This program shows two line charts of Nokia´s closing price and volume from the year 2022.
+This program shows line charts of Nokia´s closing price and volume from the year 2022.
 
 # How to run
 
